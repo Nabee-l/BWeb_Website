@@ -1,6 +1,7 @@
 # BWeb_Website
 
 This is a simple website for the BWeb community, showcasing mentors and allowing users to register.
+[Website](https://nabee-l.github.io/BWeb_Website/)
 
 ## Table of Contents
 
